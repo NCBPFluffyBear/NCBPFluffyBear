@@ -1,8 +1,10 @@
 ### Hi, FluffyBear here!👋
 
-I'm make stuff that I'm interested in!
-
-You probably know me as the creator of [FluffyMachines](https://github.com/NCBPFluffyBear/FluffyMachines).
+Here are some of my projects: 
+- [FluffyMachines](https://github.com/NCBPFluffyBear/FluffyMachines)
+- [SlimeCustomizer](https://github.com/NCBPFluffyBear/SlimeCustomizer)
+- [FlowerPower](https://github.com/NCBPFluffyBear/FlowerPower)
+- [SlimyRepair](https://github.com/NCBPFluffyBear/SlimyRepair)
 
 My discord is FluffyBear#9133
 

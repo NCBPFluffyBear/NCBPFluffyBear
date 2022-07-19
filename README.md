@@ -6,6 +6,8 @@ Here are some of my projects:
 - [FlowerPower](https://github.com/NCBPFluffyBear/FlowerPower)
 - [SlimyRepair](https://github.com/NCBPFluffyBear/SlimyRepair)
 
+See how some of my projects are doing with [bStats](https://bstats.org/author/NCBPFluffyBear)!
+
 My discord is FluffyBear#9133
 
 <p align="center">
